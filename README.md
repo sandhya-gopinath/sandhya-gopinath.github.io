@@ -1,2 +1,3 @@
-# sandhya-gopinath.github.io
+Sandhya Gopinath
+
 Technology leader in multi-core and multi-node system design.
