@@ -33,7 +33,7 @@ Building Scalable, Resilient Systems \| 20+ Years \| Ex-Google & Citrix
 # [Publication](#publication) 
 Sandhya G, K. Gopinath, "Design and Analysis of Rate Aware Ad Hoc 802.11 Networks," International Conference on Distributed Computing and Networking (ICDCN 2006), LNCS4308 
 
-# Open Source Contributions (#open-source-contributions)
+# [Open Source Contributions](#open-source-contributions)
 [Wireshak protocol dissectors](https://cgit.osmocom.org/wireshark/diff/AUTHORS?h=osmocom/master&id=7f044ff6a20bbeda802e910ea42fd5923ccd47cc&id2=beb8d29ad675b68655256c327b7ea40c7d3ef638)
 
 
