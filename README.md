@@ -1,4 +1,4 @@
-Building Scalable, Resilient Systems - 20+ Years - Ex-Google & Citrix
+Building Scalable, Resilient Systems \| 20+ Years \| Ex-Google & Citrix
 
 # [Patents](#patents)
 
