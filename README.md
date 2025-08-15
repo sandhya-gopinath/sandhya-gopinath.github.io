@@ -31,5 +31,4 @@ Building Scalable, Resilient Systems - 20+ Years - Ex-Google & Citrix
 | 25 | 11,089,113   | Systems and methods to retain existing connections so that there is no connection loss when nodes are added to a cluster for capacity or when a node is taken out from the cluster for maintenance
 
 # [Publication](#publication) 
-Sandhya G, K. Gopinath, "Design and Analysis of Rate Aware Ad Hoc 802.11 Networks," International Conference on Distributed Computing and Networking (ICDCN 2006), LNCS4
-308 
+Sandhya G, K. Gopinath, "Design and Analysis of Rate Aware Ad Hoc 802.11 Networks," International Conference on Distributed Computing and Networking (ICDCN 2006), LNCS4308 
