@@ -1,5 +1,5 @@
 # Bio 
-Technology leader in multi-core and multi-node system design.
+Building Scalable, Resilient Systems | 20+ Years | Ex-Google & Citrix
 
 # Patents
 
