@@ -1,4 +1,3 @@
-# Bio 
 Building Scalable, Resilient Systems | 20+ Years | Ex-Google & Citrix
 
 # Patents
